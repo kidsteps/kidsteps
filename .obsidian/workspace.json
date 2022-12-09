@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "782439da92354dd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "77afbe1d754aeec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64e0ccbf15a5a4fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.经验与教训/我的/婴儿针对新冠提前准备.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2479d5ee8737175d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5fc3a2b7579d552",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a10fca36bb799809",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "813e448e6e345eba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37d7a5c672c03ad2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "439ecc516f313180",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db3f00d0093b437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69cc545b26bfc6fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.经验与教训/我的/婴儿针对新冠提前准备.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53133b29980139e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2.经验与教训/我的/婴儿针对新冠提前准备.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30cf70850d3b88c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b2e161fcdbab610",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2.经验与教训/我的/婴儿针对新冠提前准备.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "64e0ccbf15a5a4fd",
+  "lastOpenFiles": [
+    "3.资料/WHO-EURO-2021-855-40590-62244-chi.pdf",
+    "2.经验与教训/我的/婴儿针对新冠提前准备.md",
+    "3.资料/母乳存储原则.md",
+    "3.资料/用吸出的母乳哺喂宝宝.md",
+    "readme.md",
+    "3.资料/母乳的机制.md",
+    "3.资料/母乳太少？ 如何增加母乳供应量.md",
+    "3.资料/母乳喂养的‘正常’范围是多少？.md",
+    "3.资料/母乳喂养期间的饮食.md",
+    "3.资料/母乳喂养.md"
+  ]
+}

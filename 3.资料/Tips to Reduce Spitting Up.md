@@ -1,5 +1,3 @@
-## Tips to Reduce Spitting Up
-
 These tips may help your baby spit up less often:
 
 - **Don’t feed too much at once.**Instead, give them smaller amounts more often.

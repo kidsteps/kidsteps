@@ -1,4 +1,4 @@
-# Does baby formula need to be warm? Let’s talk best temperature for infant formula.
+
 
 [![Photo of mom testing temperature of baby bottle](https://zk4bucket.oss-cn-beijing.aliyuncs.com/uPic/iStock-1210165371-768x512-20220914030043499.jpg)](https://milk-drunk.com/wp-content/uploads/2022/01/iStock-1210165371.jpg)
 
