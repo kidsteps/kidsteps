@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08da9cc3c33aba8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.资料/儿童新冠发病预防与处理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.经验与教训/我的/婴儿针对新冠提前准备.md",
+                "file": "3.资料/儿童新冠发病预防与处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.经验与教训/我的/婴儿针对新冠提前准备.md",
+                "file": "3.资料/儿童新冠发病预防与处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.经验与教训/我的/婴儿针对新冠提前准备.md"
+                "file": "3.资料/儿童新冠发病预防与处理.md"
               }
             }
           }
@@ -136,10 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64e0ccbf15a5a4fd",
+  "active": "a10fca36bb799809",
   "lastOpenFiles": [
-    "3.资料/WHO-EURO-2021-855-40590-62244-chi.pdf",
     "2.经验与教训/我的/婴儿针对新冠提前准备.md",
+    "3.资料/WHO-EURO-2021-855-40590-62244-chi.pdf",
     "3.资料/母乳存储原则.md",
     "3.资料/用吸出的母乳哺喂宝宝.md",
     "readme.md",
