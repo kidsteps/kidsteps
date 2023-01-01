@@ -7,7 +7,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "assets",
   "useMarkdownLinks": false,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "newFileLocation": "current",
   "readableLineLength": true,
   "pdfExportSettings": {

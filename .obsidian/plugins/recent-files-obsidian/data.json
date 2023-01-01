@@ -5,6 +5,14 @@
       "path": "2.经验与教训/我的/如何补充维生素 D.md"
     },
     {
+      "basename": "维生素D",
+      "path": "3.资料/维生素D.md"
+    },
+    {
+      "basename": "如何晒太阳",
+      "path": "3.资料/如何晒太阳.md"
+    },
+    {
       "basename": "冲泡 a2 奶粉的标准",
       "path": "2.经验与教训/我的/冲泡 a2 奶粉的标准.md"
     },
@@ -17,16 +25,8 @@
       "path": "2.经验与教训/我的/堵奶怎么办.md"
     },
     {
-      "basename": "维生素D",
-      "path": "3.资料/维生素D.md"
-    },
-    {
       "basename": "readme",
       "path": "readme.md"
-    },
-    {
-      "basename": "如何晒太阳",
-      "path": "3.资料/如何晒太阳.md"
     },
     {
       "basename": "皮肤如何合成维生素 D",
