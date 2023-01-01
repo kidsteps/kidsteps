@@ -1,6 +1,6 @@
 
 
-[![Photo of mom testing temperature of baby bottle](https://zk4bucket.oss-cn-beijing.aliyuncs.com/uPic/iStock-1210165371-768x512-20220914030043499.jpg)](https://milk-drunk.com/wp-content/uploads/2022/01/iStock-1210165371.jpg)
+[![Photo of mom testing temperature of baby bottle](https://md4zk.oss-cn-beijing.aliyuncs.com/uPic/iStock-1210165371-768x512-20220914030043499.jpg)](https://milk-drunk.com/wp-content/uploads/2022/01/iStock-1210165371.jpg)
 
 Parents often wonder if their baby’s bottles need to be warmed up before serving. Just like adults, some babies prefer warm to cold. If you’ve been wondering [can babies drink cold formula](https://milk-drunk.com/how-to-make-mix-warm-store-baby-formula-bottle/) or does baby formula have to be warm— we’ve got your answers on all things related to the best temperature of [infant formula](https://www.hibobbie.com/).
 
@@ -114,7 +114,7 @@ This post may contain affiliate links, and we may receive commissions for purcha
 
 ### Meet the Author
 
-![img](https://zk4bucket.oss-cn-beijing.aliyuncs.com/uPic/JENNY_ALTMAN_07_22_14-277_crop2-1-scaled-e1624453701720-20220914030043577.jpg)
+![img](https://md4zk.oss-cn-beijing.aliyuncs.com/uPic/JENNY_ALTMAN_07_22_14-277_crop2-1-scaled-e1624453701720-20220914030043577.jpg)
 
 [Jenny Altman](https://milk-drunk.com/author/jennybobbie/)
 

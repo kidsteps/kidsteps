@@ -1,0 +1,17 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "zotero/{{citekey}}.md",
+      "imageOutputPathTemplate": "zotero/{{citekey}}.assrts/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "templates/zotero.template.md"
+    }
+  ]
+}

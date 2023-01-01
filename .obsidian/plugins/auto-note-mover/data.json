@@ -1,0 +1,48 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Resources",
+      "tag": "#resources",
+      "pattern": ""
+    },
+    {
+      "folder": "Make Money",
+      "tag": "#makemoney",
+      "pattern": ""
+    },
+    {
+      "folder": "booknote",
+      "tag": "#booknote",
+      "pattern": ""
+    },
+    {
+      "folder": "Big Data",
+      "tag": "#bigdata",
+      "pattern": ""
+    },
+    {
+      "folder": "Psychology",
+      "tag": "#psychology",
+      "pattern": ""
+    },
+    {
+      "folder": "Distribution Transaction",
+      "tag": "#transaction",
+      "pattern": ""
+    },
+    {
+      "folder": "OpenGL",
+      "tag": "#openGL",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}

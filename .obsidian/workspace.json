@@ -1,52 +1,109 @@
 {
   "main": {
-    "id": "782439da92354dd2",
+    "id": "32f0fc769e5c0004",
     "type": "split",
     "children": [
       {
-        "id": "77afbe1d754aeec4",
+        "id": "507dc8f9db2188c6",
         "type": "tabs",
         "children": [
           {
-            "id": "64e0ccbf15a5a4fd",
+            "id": "ef2324542a783ff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.经验与教训/我的/婴儿针对新冠提前准备.md",
+                "file": "readme.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "08da9cc3c33aba8b",
+            "id": "fbdf4be5c6daf2cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.资料/儿童新冠发病预防与处理.md",
+                "file": "2.经验与教训/我的/如何补充维生素 D.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "3728b82d9ec71986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.资料/维生素D.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9eaf9b7818a16584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.经验与教训/我的/冲泡 a2 奶粉的标准.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cac30a7ef2c37b83",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2479d5ee8737175d",
+    "id": "ecbc7716f44790c9",
     "type": "split",
     "children": [
       {
-        "id": "b5fc3a2b7579d552",
+        "id": "9ca144cc58de373d",
         "type": "tabs",
         "children": [
           {
-            "id": "a10fca36bb799809",
+            "id": "94fa58bdfc592f3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#how-to",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2bff9a30727c993",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a600fb783176ccbd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,22 +113,15 @@
             }
           },
           {
-            "id": "813e448e6e345eba",
+            "id": "3f5c78cd661a607d",
             "type": "leaf",
             "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
+              "type": "recent-files",
+              "state": {}
             }
           },
           {
-            "id": "37d7a5c672c03ad2",
+            "id": "d50ded64a5ea07d9",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -82,25 +132,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 409.5
   },
   "right": {
-    "id": "439ecc516f313180",
+    "id": "224e6995c242b02c",
     "type": "split",
     "children": [
       {
-        "id": "9db3f00d0093b437",
+        "id": "4c25df2fba0dfd6d",
         "type": "tabs",
         "children": [
           {
-            "id": "69cc545b26bfc6fd",
+            "id": "bd12c35fe5402d9f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.资料/儿童新冠发病预防与处理.md",
+                "file": "2.经验与教训/我的/冲泡 a2 奶粉的标准.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -110,19 +160,7 @@
             }
           },
           {
-            "id": "53133b29980139e4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "3.资料/儿童新冠发病预防与处理.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "30cf70850d3b88c0",
+            "id": "ac9cb5de3d09b479",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +171,81 @@
             }
           },
           {
-            "id": "2b2e161fcdbab610",
+            "id": "8a3d33f0b1bfa59f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2.经验与教训/我的/冲泡 a2 奶粉的标准.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3417ef827fc842ee",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.资料/儿童新冠发病预防与处理.md"
+                "file": "2.经验与教训/我的/冲泡 a2 奶粉的标准.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "78da05731082c7c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d926b76821d7a5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2.经验与教训/我的/冲泡 a2 奶粉的标准.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#methodolgy",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8181340
+                      }
+                    },
+                    {
+                      "query": "tag:#definition",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.714892578125,
+                  "lineSizeMultiplier": 0.9673095703125,
+                  "collapse-forces": false,
+                  "centerStrength": 0.789469401041667,
+                  "repelStrength": 7.9541015625,
+                  "linkStrength": 1,
+                  "linkDistance": 178,
+                  "scale": 1.3985551072104163,
+                  "close": true
+                }
               }
             }
           }
@@ -146,20 +253,42 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 456.5
   },
-  "active": "a10fca36bb799809",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "meld-encrypt:Create new encrypted note": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9eaf9b7818a16584",
   "lastOpenFiles": [
     "2.经验与教训/我的/婴儿针对新冠提前准备.md",
-    "3.资料/WHO-EURO-2021-855-40590-62244-chi.pdf",
-    "3.资料/母乳存储原则.md",
-    "3.资料/用吸出的母乳哺喂宝宝.md",
+    "2.经验与教训/我的/如何补充维生素 D.md",
+    "2.经验与教训/我的/堵奶怎么办.md",
+    "2.经验与教训/我的/冲泡 a2 奶粉的标准.md",
+    "3.资料/4 岁以下婴幼维生素 D 摄取量.md",
+    "3.资料/维生素D.md",
     "readme.md",
-    "3.资料/母乳的机制.md",
-    "3.资料/母乳太少？ 如何增加母乳供应量.md",
-    "3.资料/母乳喂养的‘正常’范围是多少？.md",
-    "3.资料/母乳喂养期间的饮食.md",
-    "3.资料/母乳喂养.md"
+    "3.资料/如何晒太阳.md",
+    "3.资料/皮肤如何合成维生素 D.md",
+    "3.资料/启动母乳喂养.md"
   ]
 }

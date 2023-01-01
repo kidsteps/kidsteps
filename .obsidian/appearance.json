@@ -1,3 +1,16 @@
 {
-  "accentColor": ""
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "cssTheme": "Things",
+  "textFontFamily": "LXGW WenKai,Comic Sans MS",
+  "interfaceFontFamily": "LXGW WenKai",
+  "monospaceFontFamily": "Consolas",
+  "translucency": false,
+  "accentColor": "#42c0ff",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "internal_link"
+  ]
 }

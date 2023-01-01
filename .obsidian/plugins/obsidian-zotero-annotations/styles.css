@@ -1,0 +1,34 @@
+/* Title of the reference */
+.zaTitle {
+    display: block;
+}
+.zaTitle::before {
+    content: "📖 ";
+    font-weight: bold;
+}
+.zaTitle::after {
+    content: " ";
+}
+
+/* Authors of the reference */
+.zaAuthors {
+    color: #888;
+    font-size: 13px;
+}
+.zaAuthors::before {
+    content: '👤 ';
+}
+.zaAuthorsEmpty::after {
+    font-style: italic;
+    content: "Unknown Authors";
+}
+
+/* Citekey style */
+.zaCitekey {
+    display: block;
+    color: #9079e9;
+    font-size: 13px;
+    font-family: monospace;
+    margin-right: 5px;
+    padding-right: 5px;
+}

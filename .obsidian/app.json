@@ -1,7 +1,37 @@
 {
-  "useMarkdownLinks": true,
+  "legacyEditor": false,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./assets",
-  "newLinkFormat": "relative",
-  "promptDelete": false
+  "attachmentFolderPath": "assets",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "newFileLocation": "current",
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 88
+  },
+  "useTab": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "vimMode": false,
+  "showInlineTitle": true,
+  "mobilePullAction": "editor:insert-wikilink",
+  "userIgnoreFilters": null,
+  "autoPairBrackets": true,
+  "showFrontmatter": false,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-wikilink"
+  ],
+  "strictLineBreaks": false
 }

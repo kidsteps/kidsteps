@@ -1,0 +1,14 @@
+{
+  "selected": "_in_app_last",
+  "custom": {},
+  "modifierBindings": [],
+  "enableLog": false,
+  "timeout": 500,
+  "inAppViewRec": [
+    {
+      "leafId": "964c4578af2a929d",
+      "url": "https://github.com/jherr/fcc-state",
+      "mode": 0
+    }
+  ]
+}
