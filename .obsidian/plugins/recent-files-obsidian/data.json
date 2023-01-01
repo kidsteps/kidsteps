@@ -5,6 +5,10 @@
       "path": "2.经验与教训/我的/如何补充维生素 D.md"
     },
     {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
       "basename": "维生素D",
       "path": "3.资料/维生素D.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "堵奶怎么办",
       "path": "2.经验与教训/我的/堵奶怎么办.md"
-    },
-    {
-      "basename": "readme",
-      "path": "readme.md"
     },
     {
       "basename": "皮肤如何合成维生素 D",
