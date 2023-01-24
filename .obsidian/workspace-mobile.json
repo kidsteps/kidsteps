@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Life Goals.md",
-                "mode": "preview",
+                "file": "2.经验与教训/我的/微量元素问题.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -1152,7 +1152,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "218928be0dbd17d0",
@@ -1164,7 +1164,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Big Life Goals.md",
+            "file": "2.经验与教训/我的/微量元素问题.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -1181,7 +1181,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Big Life Goals.md"
+            "file": "2.经验与教训/我的/微量元素问题.md"
           }
         }
       },
@@ -1191,7 +1191,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Big Life Goals.md",
+            "file": "2.经验与教训/我的/微量元素问题.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -1202,15 +1202,15 @@
   },
   "active": "18c4caef5defb071",
   "lastOpenFiles": [
-    "financial/毛利率.md",
-    "5.轮子索引/5.数据库.缓存.MQ.中间件/mysql/MySQL 索引可能失效的情况.md",
-    "1.方法论/刘易斯管理方法.md",
-    "booknote/项目计划，进度与控制.md",
-    "booknote/系统之美.md",
-    "借势.md",
-    "怎么讲故事.md",
-    "5.轮子索引/0.计算机语言/python/pip.md",
-    "5.轮子索引/0.计算机语言/js/Bubbling and capturing.md",
-    "5.轮子索引/0.计算机语言/assembly/assembly.md"
+    "3.资料/打嗝原理.md",
+    "2.经验与教训/我的/拍嗝的问题.md",
+    "2.经验与教训/我的/微量元素问题.md",
+    "2.经验与教训/我的/婴儿针对新冠提前准备.md",
+    "2.经验与教训/我的/安全的睡眠环境.md",
+    "2.经验与教训/我的/新生儿洗不洗澡的问题.md",
+    "2.经验与教训/我的/换尿布问题.md",
+    "3.资料/如何晒太阳.md",
+    "2.经验与教训/我的/如何补充维生素 D.md",
+    "2.经验与教训/我的/堵奶怎么办.md"
   ]
 }

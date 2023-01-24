@@ -92,9 +92,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "56feffe1740e28e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -304,7 +314,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a600fb783176ccbd",
+  "active": "56feffe1740e28e2",
   "lastOpenFiles": [
     "3.资料/吐奶原因.md",
     "3.资料/打嗝原理.md",
