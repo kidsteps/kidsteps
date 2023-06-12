@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "如何晒太阳",
-      "path": "3.资料/如何晒太阳.md"
+      "basename": "0-1 月",
+      "path": "1.阶段实操SOP/0-1 月.md"
+    },
+    {
+      "basename": "2-6 月",
+      "path": "1.阶段实操SOP/2-6 月.md"
+    },
+    {
+      "basename": "6-12 月",
+      "path": "1.阶段实操SOP/6-12 月.md"
+    },
+    {
+      "basename": "0 日",
+      "path": "1.阶段实操SOP/0 日.md"
     },
     {
       "basename": "Will Baby Choke if they vomit while sleeping on their back?",
@@ -11,6 +23,26 @@
     {
       "basename": "儿童新冠发病预防与处理",
       "path": "3.资料/儿童新冠发病预防与处理.md"
+    },
+    {
+      "basename": "吐奶原因",
+      "path": "3.资料/吐奶原因.md"
+    },
+    {
+      "basename": "打嗝原理",
+      "path": "3.资料/打嗝原理.md"
+    },
+    {
+      "basename": "启动母乳喂养",
+      "path": "3.资料/启动母乳喂养.md"
+    },
+    {
+      "basename": "如何储存、冷藏和解冻母乳",
+      "path": "3.资料/如何储存、冷藏和解冻母乳.md"
+    },
+    {
+      "basename": "如何晒太阳",
+      "path": "3.资料/如何晒太阳.md"
     },
     {
       "basename": "Tips to Reduce Spitting Up",
@@ -23,18 +55,6 @@
     {
       "basename": "11种母乳喂养姿势",
       "path": "3.资料/11种母乳喂养姿势.md"
-    },
-    {
-      "basename": "0 日",
-      "path": "1.阶段实操SOP/0 日.md"
-    },
-    {
-      "basename": "0-1 月",
-      "path": "1.阶段实操SOP/0-1 月.md"
-    },
-    {
-      "basename": "2-6 月",
-      "path": "1.阶段实操SOP/2-6 月.md"
     },
     {
       "basename": "AI Optimizer Algorithm",
@@ -179,26 +199,6 @@
     {
       "basename": "LSTM",
       "path": "Fleeting Notes/10.it/ai/LSTM.md"
-    },
-    {
-      "basename": "Recurrent Neural Networks",
-      "path": "Fleeting Notes/10.it/ai/Recurrent Neural Networks.md"
-    },
-    {
-      "basename": "AI 吴恩达",
-      "path": "Fleeting Notes/10.it/ai/AI 吴恩达.md"
-    },
-    {
-      "basename": "经典散户心态图",
-      "path": "Project Notes/Make Money/经典散户心态图.md"
-    },
-    {
-      "basename": "怎么通过股票赚到钱？",
-      "path": "Project Notes/Make Money/怎么通过股票赚到钱？.md"
-    },
-    {
-      "basename": "LPR",
-      "path": "Permanant Notes/1.methodolgy/financial/Stocks/LPR.md"
     }
   ],
   "omittedPaths": [],
