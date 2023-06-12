@@ -67,8 +67,13 @@
             "id": "a07cdb557e6b0418",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.资料/如何晒太阳.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -142,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.资料/如何晒太阳.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3.资料/如何晒太阳.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3.资料/如何晒太阳.md"
+              }
             }
           },
           {
@@ -221,8 +229,16 @@
       "translate:Open translation view": false
     }
   },
-  "active": "3f5c78cd661a607d",
+  "active": "a07cdb557e6b0418",
   "lastOpenFiles": [
+    "3.资料/Will Baby Choke if they vomit while sleeping on their back?.md",
+    "3.资料/儿童新冠发病预防与处理.md",
+    "3.资料/Tips to Reduce Spitting Up.md",
+    "3.资料/A2奶粉（澳洲版）冲泡方法.md",
+    "3.资料/11种母乳喂养姿势.md",
+    "1.阶段实操SOP/0 日.md",
+    "1.阶段实操SOP/0-1 月.md",
+    "1.阶段实操SOP/2-6 月.md",
     "Resources/People/如何做个人网站.md",
     "Fleeting Notes/10.it/ai/ios 抖音小程序需要 ios苹果开发者账号问题.md",
     "assets/AutoGrad Problems 2023-06-12 12.14.56.excalidraw.md",
@@ -242,14 +258,6 @@
     "assets/Pasted image 20230612010418.png",
     "Fleeting Notes/10.it/ai/Gradient.md",
     "Resources/爱因斯坦：这些话都不是我说的！Did Einstein really say that?.md",
-    "Resources/People/Andrej Karpathy.md",
-    "Fleeting Notes/10.it/0.计算机语言/python/python 工程最佳实践.md",
-    "Fleeting Notes/10.it/0.计算机语言/python/TDD.md",
-    "Fleeting Notes/10.it/0.计算机语言/python/python debug.md",
-    "Permanant Notes/1.methodolgy/Math/线性代数.md",
-    "Permanant Notes/1.methodolgy/Math/ipdb.md",
-    "Permanant Notes/1.methodolgy/Math/Linear Algebra.md",
-    "Fleeting Notes/10.it/ai/word2vec.md",
     "assets/Pasted image 20230610162413.png",
     "assets/Pasted image 20230610162341.png",
     "assets/Pasted image 20230610162207.png",

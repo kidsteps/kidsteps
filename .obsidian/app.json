@@ -6,7 +6,7 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "assets",
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newLinkFormat": "shortest",
   "newFileLocation": "current",
   "readableLineLength": true,
