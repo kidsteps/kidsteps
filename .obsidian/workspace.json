@@ -4,89 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "507dc8f9db2188c6",
+        "id": "3779c1c522066f73",
         "type": "tabs",
         "children": [
           {
-            "id": "ef2324542a783ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbdf4be5c6daf2cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.经验与教训/我的/如何补充维生素 D.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c206c1bafa05d0af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.经验与教训/我的/拍嗝的问题.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3728b82d9ec71986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.资料/维生素D.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eaf9b7818a16584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.经验与教训/我的/如何补充维生素 D.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "793f6eeb9d3becbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.资料/如何晒太阳.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cac30a7ef2c37b83",
+            "id": "1414137a696ae309",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -94,16 +16,75 @@
             }
           },
           {
-            "id": "56feffe1740e28e2",
+            "id": "5b5ab99b6edc0f3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.经验与教训/我的/如何补充维生素 D.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c70e99cad124a84",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe801962a5f00cfb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2a56c81eedb0d87",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d64ebf042ea8b1b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "202a123c571d470a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a07cdb557e6b0418",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3edd66a03f2ad4f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4ed1f0e977e1e23",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -116,35 +97,6 @@
     "id": "ecbc7716f44790c9",
     "type": "split",
     "children": [
-      {
-        "id": "9ca144cc58de373d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "94fa58bdfc592f3c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#how-to",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "3c6633de65712e56",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ]
-      },
       {
         "id": "d2bff9a30727c993",
         "type": "tabs",
@@ -160,6 +112,21 @@
             }
           },
           {
+            "id": "94fa58bdfc592f3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "3f5c78cd661a607d",
             "type": "leaf",
             "state": {
@@ -168,18 +135,19 @@
             }
           },
           {
-            "id": "d50ded64a5ea07d9",
+            "id": "16ebf8b82362a20b",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 335.5
   },
   "right": {
     "id": "224e6995c242b02c",
@@ -195,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.经验与教训/我的/如何补充维生素 D.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,136 +174,100 @@
             }
           },
           {
-            "id": "ac9cb5de3d09b479",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "8a3d33f0b1bfa59f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.经验与教训/我的/如何补充维生素 D.md",
-                "linksCollapsed": true,
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "3417ef827fc842ee",
+            "id": "236919d49f5cb9a3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2.经验与教训/我的/如何补充维生素 D.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "1b2c5dff33369896",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "78da05731082c7c6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "02d926b76821d7a5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2.经验与教训/我的/如何补充维生素 D.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#methodolgy",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8181340
-                      }
-                    },
-                    {
-                      "query": "tag:#definition",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.714892578125,
-                  "lineSizeMultiplier": 0.9673095703125,
-                  "collapse-forces": false,
-                  "centerStrength": 0.789469401041667,
-                  "repelStrength": 7.9541015625,
-                  "linkStrength": 1,
-                  "linkDistance": 178,
-                  "scale": 1.3985551072104163,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 385.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "meld-encrypt:Create new encrypted note": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "translate:Open translation view": false
     }
   },
-  "active": "a600fb783176ccbd",
+  "active": "3f5c78cd661a607d",
   "lastOpenFiles": [
-    "2.经验与教训/我的/冲泡 a2 奶粉的标准.md",
-    "3.资料/吐奶原因.md",
-    "3.资料/打嗝原理.md",
-    "2.经验与教训/我的/拍嗝的问题.md",
-    "2.经验与教训/我的/微量元素问题.md",
-    "2.经验与教训/我的/安全的睡眠环境.md",
-    "2.经验与教训/我的/婴儿针对新冠提前准备.md",
-    "2.经验与教训/我的/如何补充维生素 D.md",
-    "readme.md",
-    "3.资料/维生素D.md",
-    "3.资料/如何晒太阳.md"
+    "Resources/People/如何做个人网站.md",
+    "Fleeting Notes/10.it/ai/ios 抖音小程序需要 ios苹果开发者账号问题.md",
+    "assets/AutoGrad Problems 2023-06-12 12.14.56.excalidraw.md",
+    "Fleeting Notes/10.it/ai/AutoGrad Problems.md",
+    "Fleeting Notes/10.it/ai/随机梯度下降.md",
+    "Fleeting Notes/10.it/ai/梯度下降法  optimization algorithm  种类.md",
+    "Fleeting Notes/10.it/ai/AI Optimizer Algorithm.md",
+    "Resources/AI Optimizers.md",
+    "Resources/AI Best practice, All you need to Know.md",
+    "Resources/prompt Resources.md",
+    "Resources/深度学习框架.md",
+    "Project Notes/Make Money/wujie-无界-微应用-原理.md",
+    "Fleeting Notes/Big Life Goals.md",
+    "Fleeting Notes/10.it/ai/Auto Grad.md",
+    "Resources/People/苏剑林.md",
+    "Resources/AI Resources.md",
+    "assets/Pasted image 20230612010418.png",
+    "Fleeting Notes/10.it/ai/Gradient.md",
+    "Resources/爱因斯坦：这些话都不是我说的！Did Einstein really say that?.md",
+    "Resources/People/Andrej Karpathy.md",
+    "Fleeting Notes/10.it/0.计算机语言/python/python 工程最佳实践.md",
+    "Fleeting Notes/10.it/0.计算机语言/python/TDD.md",
+    "Fleeting Notes/10.it/0.计算机语言/python/python debug.md",
+    "Permanant Notes/1.methodolgy/Math/线性代数.md",
+    "Permanant Notes/1.methodolgy/Math/ipdb.md",
+    "Permanant Notes/1.methodolgy/Math/Linear Algebra.md",
+    "Fleeting Notes/10.it/ai/word2vec.md",
+    "assets/Pasted image 20230610162413.png",
+    "assets/Pasted image 20230610162341.png",
+    "assets/Pasted image 20230610162207.png",
+    "assets/Pasted image 20230610161957.png",
+    "assets/Pasted image 20230610143341.png",
+    "assets/Pasted image 20230610112537.png",
+    "assets/Pasted image 20230610083256.png",
+    "assets/Pasted image 20230610083221.png",
+    "textgenerator/prompts/awesomechatgpt",
+    "assets/Pasted image 20230610082542.png",
+    "Project Notes/Company Work/中科泰岳/项目/3.海昌会员项目/~$（中国）集团年卡投标文件（技术部分）-中科泰岳-20220228_打印稿.docx",
+    "8.个人与家庭/resume/~$青 better me.docx",
+    "github-recovery-codes (1).txt",
+    "assets/抖音小店无货源玩法详解.pdf",
+    "assets/堵奶家庭自救｜无痛通乳大公开.mp4",
+    "assets/分销商城操作说明-07090847.pdf",
+    "assets/pdf/麦肯锡问题分析与解决技巧专为商务人士设计以提升分析与解决问题能力的指南30万读者真诚推荐6034229.pdf",
+    "assets/pdf/进化心理学：心理的新科学（第二版）.epub",
+    "assets/pdf/语言的魔力：谈笑间转变信念之NLP技巧.pdf"
   ]
 }

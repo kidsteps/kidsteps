@@ -27,46 +27,15 @@
   "darlal-switcher-plus:switcher-plus:open": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "O"
     }
   ],
-  "tag-pane:open": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "T"
-    }
-  ],
-  "file-explorer:open": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "1"
-    }
-  ],
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
+  "tag-pane:open": [],
+  "editor:toggle-source": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -121,6 +90,20 @@
         "Shift"
       ],
       "key": "["
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "H"
     }
   ],
   "workspace:next-tab": [
@@ -130,12 +113,27 @@
         "Shift"
       ],
       "key": "]"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "L"
     }
   ],
   "switcher:open": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "O"
     }
@@ -152,7 +150,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "W"
+      "key": "R"
     }
   ],
   "obsidian-auto-link-title:enhance-url-with-title": [
@@ -161,15 +159,7 @@
       "key": "F3"
     }
   ],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "L"
-    }
-  ],
+  "editor:insert-wikilink": [],
   "open-with-default-app:open": [
     {
       "modifiers": [
@@ -210,7 +200,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "S"
+      "key": "O"
     }
   ],
   "templater-obsidian:templates/t-Tutorials.md": [],
@@ -232,15 +222,7 @@
       "key": "C"
     }
   ],
-  "note-composer:extract-heading": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "H"
-    }
-  ],
+  "note-composer:extract-heading": [],
   "note-composer:split-file": [],
   "note-refactor-obsidian:app:extract-selection-content-only": [],
   "app:go-back": [
@@ -253,7 +235,6 @@
     },
     {
       "modifiers": [
-        "Ctrl",
         "Mod"
       ],
       "key": "H"
@@ -269,7 +250,6 @@
     },
     {
       "modifiers": [
-        "Ctrl",
         "Mod"
       ],
       "key": "L"
@@ -332,6 +312,131 @@
         "Shift"
       ],
       "key": "B"
+    }
+  ],
+  "editor:insert-callout": [],
+  "file-explorer:reveal-active-file": [],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:focus": [],
+  "workspace:goto-last-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "obsidian-gpt:get-completion": [],
+  "obsidian-gpt:chat-completion": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-gpt:show-model-settings": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-textgenerator-plugin:set-model": [],
+  "obsidian-textgenerator-plugin:show-model-From-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-local-images:download-images": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-textgenerator-plugin:get-title": [],
+  "obsidian-textgenerator-plugin:insert-generated-text-From-template": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "translate:translator-selection-default": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "fuzzy-chinese-pinyin:open-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
     }
   ]
 }

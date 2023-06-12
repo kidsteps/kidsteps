@@ -1,6 +1,12 @@
 {
   "pluginList": [
-    "anoopkcn/obsidian-zotero-annotations"
+    "Stardusten/ob-table-enhancer",
+    "otelo2/Obsidian-AI",
+    "aidan-gibson/obsidian-opener",
+    "microtower00/obsidian-ai-images",
+    "nothingislost/obsidian-query-control",
+    "jmilldotdev/obsidian-gpt",
+    "micahke/obsidian-gpt3-notes"
   ],
   "pluginSubListFrozenVersion": [],
   "themesList": [],

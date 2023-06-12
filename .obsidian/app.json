@@ -7,7 +7,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "assets",
   "useMarkdownLinks": false,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "newFileLocation": "current",
   "readableLineLength": true,
   "pdfExportSettings": {
@@ -25,13 +25,18 @@
   "vimMode": false,
   "showInlineTitle": true,
   "mobilePullAction": "editor:insert-wikilink",
-  "userIgnoreFilters": null,
+  "userIgnoreFilters": [
+    "产品文档/",
+    "assets/",
+    "templates/",
+    "textgenerator/"
+  ],
   "autoPairBrackets": true,
   "showFrontmatter": false,
   "mobileToolbarCommands": [
     "editor:undo",
-    "editor:redo",
-    "editor:insert-wikilink"
+    "editor:redo"
   ],
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "autoConvertHtml": true
 }

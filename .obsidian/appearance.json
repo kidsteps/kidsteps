@@ -1,8 +1,8 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "theme": "moonstone",
   "cssTheme": "Things",
-  "textFontFamily": "LXGW WenKai,Comic Sans MS",
+  "textFontFamily": "LXGW WenKai",
   "interfaceFontFamily": "LXGW WenKai",
   "monospaceFontFamily": "Consolas",
   "translucency": false,

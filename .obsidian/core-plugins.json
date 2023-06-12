@@ -1,22 +1,10 @@
 [
   "file-explorer",
   "global-search",
-  "switcher",
-  "graph",
   "backlink",
-  "canvas",
   "outgoing-link",
-  "tag-pane",
-  "page-preview",
-  "daily-notes",
-  "templates",
-  "note-composer",
   "command-palette",
   "bookmarks",
   "markdown-importer",
-  "zk-prefixer",
-  "random-note",
-  "outline",
-  "workspaces",
-  "file-recovery"
+  "outline"
 ]

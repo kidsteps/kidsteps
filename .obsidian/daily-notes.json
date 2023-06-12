@@ -1,4 +1,5 @@
 {
   "autorun": false,
-  "folder": "daily"
+  "folder": "daily",
+  "format": ""
 }
