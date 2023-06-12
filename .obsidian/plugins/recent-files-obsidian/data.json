@@ -9,12 +9,16 @@
       "path": "1.阶段实操SOP/2-6 月.md"
     },
     {
-      "basename": "6-12 月",
-      "path": "1.阶段实操SOP/6-12 月.md"
-    },
-    {
       "basename": "0 日",
       "path": "1.阶段实操SOP/0 日.md"
+    },
+    {
+      "basename": "儿童特应性皮炎",
+      "path": "2.经验与教训/我的/儿童特应性皮炎.md"
+    },
+    {
+      "basename": "6-12 月",
+      "path": "1.阶段实操SOP/6-12 月.md"
     },
     {
       "basename": "Will Baby Choke if they vomit while sleeping on their back?",
@@ -195,10 +199,6 @@
     {
       "basename": "Positional Embeddings",
       "path": "Fleeting Notes/10.it/ai/Positional Embeddings.md"
-    },
-    {
-      "basename": "LSTM",
-      "path": "Fleeting Notes/10.it/ai/LSTM.md"
     }
   ],
   "omittedPaths": [],
