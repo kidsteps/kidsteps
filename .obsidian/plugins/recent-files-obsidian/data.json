@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "1.阶段实操SOP/Untitled.md"
+    },
+    {
       "basename": "0-1 月",
       "path": "1.阶段实操SOP/0-1 月.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cost Function",
       "path": "Fleeting Notes/10.it/ai/Cost Function.md"
-    },
-    {
-      "basename": "Positional Embeddings",
-      "path": "Fleeting Notes/10.it/ai/Positional Embeddings.md"
     }
   ],
   "omittedPaths": [],
